@@ -1,0 +1,17 @@
+clear
+pendown
+white
+move 150
+reverse 150
+left
+left 90
+move 150
+right 90
+move 150
+penup
+reset
+pendown
+circle
+circle 100
+white
+circle 150
